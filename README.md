@@ -31,9 +31,9 @@ It contains:
 DSA-Mastery-Path/
 │
 ├── 30-Day-Challenge/
-│   ├── Day01_Number_Problems/
-│   ├── Day02_Pattern_Printing/
-│   ├── Day03_Pattern_Printing_II/
+│   ├── Day01_Number_Problems
+│   ├── Day02_Pattern_Printing
+│   ├── Day03_Pattern_Printing_II
 │   ├── Day04_Arrays_Traversal/
 │   ├── Day05_Arrays_Two_Pointer/
 │   ├── Day06_Arrays_Sliding_Window/
